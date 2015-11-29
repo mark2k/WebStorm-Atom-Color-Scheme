@@ -7,7 +7,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="5c6370" />
-    <option name="CARET_ROW_COLOR" value="3e4451" />
+    <option name="CARET_ROW_COLOR" value="2c323c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -33,7 +33,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="abb2bf" />
     <option name="SELECTED_TEARLINE_COLOR" value="5c6370" />
-    <option name="SELECTION_BACKGROUND" value="5c6370" />
+    <option name="SELECTION_BACKGROUND" value="3e4451" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="5c6370" />
     <option name="WHITESPACES" value="505050" />
@@ -132,6 +132,41 @@
     <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
     <option name="CONSOLE_YELLOW_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -343,7 +378,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
